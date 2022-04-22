@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Notificacao</string>
+    <string name="notification_activity">NotificationView</string>
+
+    <string name="notificationChannel">notificationChannel</string>
+    <string name="channel_description">channel_description</string>
+
+</resources>
